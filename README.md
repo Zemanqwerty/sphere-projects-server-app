@@ -8,11 +8,11 @@
 /projects/create POST
 input data:
 {
-  name: str
-  description: str
-  owner_wallet: str
-  coins_count: int
-  coins_price: float
+  name: str, <br>
+  description: str, <br>
+  owner_wallet: str, <br>
+  coins_count: int, <br>
+  coins_price: float, <br>
 }
 
 output data:
